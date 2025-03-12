@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "brand": "Apple",
+        "description": "The iPhone 15 Pro features a titanium body, A17 Pro chip, and an advanced camera system with a 48MP main sensor.",
+        "details": {
+        "display": "6.1-inch Super Retina XDR display",
+        "processor": "A17 Pro chip",
+        "storage_options": ["128GB", "256GB", "512GB", "1TB"],
+        "camera": "48MP main, 12MP ultra-wide, 12MP telephoto",
+        "battery_life": "Up to 22 hours talk time",
+        "operating_system": "iOS 17"
+        },
+        "price": 999,
+        "image_url": "https://images.macrumors.com/t/SuHt0iQuSjaO-ExOZzJieONGf_I=/2500x/article-new/2023/09/iPhone-15-Pro-Lineup-Feature.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S24 Ultra",
+        "brand": "Samsung",
+        "description": "The Galaxy S24 Ultra comes with a Snapdragon 8 Gen 3 processor, a 200MP camera, and an S Pen for productivity.",
+        "details": {
+        "display": "6.8-inch Dynamic AMOLED 2X",
+        "processor": "Snapdragon 8 Gen 3",
+        "storage_options": ["256GB", "512GB", "1TB"],
+        "camera": "200MP main, 12MP ultra-wide, 10MP periscope telephoto",
+        "battery_life": "Up to 24 hours talk time",
+        "operating_system": "Android 14 with One UI 6"
+        },
+        "price": 1199,
+        "image_url": "https://i.gadgets360cdn.com/large/samsung_galaxy_s24_ultra_x_jspring86az_1705288963334.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 8 Pro",
+        "brand": "Google",
+        "description": "Google Pixel 8 Pro offers the best AI-powered photography with Tensor G3, a smooth 120Hz display, and stock Android experience.",
+        "details": {
+        "display": "6.7-inch OLED with 120Hz refresh rate",
+        "processor": "Google Tensor G3",
+        "storage_options": ["128GB", "256GB", "512GB"],
+        "camera": "50MP main, 48MP ultra-wide, 48MP telephoto",
+        "battery_life": "Up to 23 hours talk time",
+        "operating_system": "Android 14"
+        },
+        "price": 899,
+        "image_url": "https://media.wired.com/photos/651c68d69132e1b7f804211c/master/w_2560%2Cc_limit/Google-Pixel-8-Event-Gear.jpg"
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 12",
+        "brand": "OnePlus",
+        "description": "OnePlus 12 provides fast charging, a powerful Snapdragon 8 Gen 3 processor, and a fluid 144Hz AMOLED display.",
+        "details": {
+        "display": "6.7-inch Fluid AMOLED with 144Hz refresh rate",
+        "processor": "Snapdragon 8 Gen 3",
+        "storage_options": ["128GB", "256GB"],
+        "camera": "50MP main, 48MP ultra-wide, 32MP telephoto",
+        "battery_life": "Up to 25 hours talk time",
+        "operating_system": "OxygenOS based on Android 14"
+        },
+        "price": 799,
+        "image_url": "https://images.indianexpress.com/2023/12/OnePlus-12-OnePlus.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi 13 Pro",
+        "brand": "Xiaomi",
+        "description": "Xiaomi 13 Pro boasts a Leica-tuned 50MP camera, Snapdragon 8 Gen 2 chipset, and a 6.73-inch LTPO display.",
+        "details": {
+        "display": "6.73-inch LTPO AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "storage_options": ["128GB", "256GB", "512GB"],
+        "camera": "50MP main, 50MP ultra-wide, 50MP telephoto",
+        "battery_life": "Up to 22 hours talk time",
+        "operating_system": "MIUI 14 based on Android 13"
+        },
+        "price": 699,
+        "image_url": "https://static.digit.in/default/xiaomi-13-pro-4ef5be433a.jpeg"
+    }
+]
